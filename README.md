@@ -6,6 +6,19 @@ The project demonstrates an end-to-end **Data Analytics & Business Intelligence 
 
 ---
 
+## 🔗 Project Links
+
+* 📊 **GitHub Repository:** [Food Delivery Power BI Report](https://github.com/Gurvinder-singh28/Food-delivery---power-BI-report)
+* 💼 **LinkedIn Project Post:** [View Project on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7507025211087691776/)
+
+---
+
+## 📱 Featured on LinkedIn
+
+I shared this project on LinkedIn, highlighting the dashboard, **DAX calculations, Power Query transformations, data modeling, KPI analysis, Pareto analysis, and interactive Power BI visualizations**.
+
+👉 [View the LinkedIn Project Post](https://www.linkedin.com/feed/update/urn:li:activity:7507025211087691776/)
+
 ## 📊 Project Overview
 
 The Food Delivery Power BI Report provides an interactive analytical view of a food delivery business.
